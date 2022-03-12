@@ -34,8 +34,8 @@ def btnClik():
         showinfo('send success','successfully sent')
     else:
         showerror('error','Something went wrong')
+        
 # Creating GUI 
-
 
 root = Tk()
 root.title("Message Sender")
