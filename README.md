@@ -1,2 +1,3 @@
 # SMS-Send
-Send a SMS using fast2sms API using python
+Send an SMS by using fast2sms API using python
+With Tkinter
